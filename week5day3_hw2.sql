@@ -1,7 +1,7 @@
 INSERT INTO customers (name, email) VALUES
-    ('John Smith', 'john.smith@email.com'),
-    ('Jane Doe', 'jane.doe@email.com'),
-    ('Bob Johnson', 'bob.johnson@email.com');
+    ('Will Toppass', 'willtopp@email.com'),
+    ('Bill Toppass', 'billtopp@email.com'),
+    ('William Toppass', 'willitopp@email.com');
 
 INSERT INTO movies (title, release_date, runtime, rating, genre) VALUES
     ('The Avengers', '2012-05-04', 143, 'PG-13', 'Action, Adventure'),
